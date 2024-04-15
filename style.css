@@ -43,3 +43,9 @@
 .skills-section {
     background-color: lightskyblue;
 }
+
+.mb-3.mb-md-0.text-body-secondary {
+    height: 0px;
+    margin-top: -25px;
+}
+
