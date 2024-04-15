@@ -44,7 +44,7 @@
     background-color: lightskyblue;
 }
 
-.col-md-4.d-flex.align-items-center {
-    margin-top: -100px;
-    margin-bottom: -100px;
+.container.okay-word {
+    margin-top: -30px;
+    margin-bottom: -30px;
 }
