@@ -44,8 +44,7 @@
     background-color: lightskyblue;
 }
 
-.mb-3.mb-md-0.text-body-secondary {
-    height: 0px;
-    margin-top: -25px;
+.col-md-4.d-flex.align-items-center {
+    margin-top: -100px;
+    margin-bottom: -100px;
 }
-
